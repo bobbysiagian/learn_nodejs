@@ -1,5 +1,5 @@
-var http = require('http');
-var dt = require('./date');
+var http = require('http'); 
+var dt = require('./date'); //call module
 
 http.createServer(function (req, res) {
     res.writeHead(200, {'Content-Type': 'text/html'});
