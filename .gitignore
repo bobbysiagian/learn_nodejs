@@ -58,3 +58,4 @@ typings/
 .env
 
 /udemy
+.DS_Store
